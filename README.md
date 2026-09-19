@@ -1,4 +1,4 @@
-# ReLoop — Where Waste Becomes Value
+# ReLoop: Where Waste Becomes Value
 
 B2B marketplace MVP for industrial waste and secondary materials (Next.js 14 + TypeScript + Tailwind, local mock data).
 
